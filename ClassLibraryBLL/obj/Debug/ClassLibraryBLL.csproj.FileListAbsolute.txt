@@ -1,0 +1,8 @@
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\bin\Debug\ClassLibraryBLL.dll
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\bin\Debug\ClassLibraryBLL.pdb
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\bin\Debug\ClassLibraryDAL.dll
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\bin\Debug\ClassLibraryDAL.pdb
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\obj\Debug\ClassLibraryBLL.csprojResolveAssemblyReference.cache
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\obj\Debug\ClassLibraryBLL.csproj.CoreCompileInputs.cache
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\obj\Debug\ClassLibraryBLL.dll
+E:\VSProject\WebsiteScrapeForm\ClassLibraryBLL\obj\Debug\ClassLibraryBLL.pdb

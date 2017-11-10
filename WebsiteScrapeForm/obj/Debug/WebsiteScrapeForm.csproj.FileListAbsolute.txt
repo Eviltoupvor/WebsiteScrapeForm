@@ -1,0 +1,15 @@
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\WebsiteScrapeForm.exe.config
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\WebsiteScrapeForm.exe
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\WebsiteScrapeForm.pdb
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.csprojResolveAssemblyReference.cache
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.WebsiteScrapeForm.resources
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.Properties.Resources.resources
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.csproj.GenerateResource.Cache
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.csproj.CoreCompileInputs.cache
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.exe
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.pdb
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\ClassLibraryBLL.dll
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\ClassLibraryDAL.dll
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\ClassLibraryBLL.pdb
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\bin\Debug\ClassLibraryDAL.pdb
+E:\VSProject\WebsiteScrapeForm\WebsiteScrapeForm\obj\Debug\WebsiteScrapeForm.CustomProcessingBatchPictureForm.resources

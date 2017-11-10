@@ -1,0 +1,6 @@
+E:\VSProject\WebsiteScrapeForm\ClassLibraryDAL\bin\Debug\ClassLibraryDAL.dll
+E:\VSProject\WebsiteScrapeForm\ClassLibraryDAL\bin\Debug\ClassLibraryDAL.pdb
+E:\VSProject\WebsiteScrapeForm\ClassLibraryDAL\obj\Debug\ClassLibraryDAL.csprojResolveAssemblyReference.cache
+E:\VSProject\WebsiteScrapeForm\ClassLibraryDAL\obj\Debug\ClassLibraryDAL.csproj.CoreCompileInputs.cache
+E:\VSProject\WebsiteScrapeForm\ClassLibraryDAL\obj\Debug\ClassLibraryDAL.dll
+E:\VSProject\WebsiteScrapeForm\ClassLibraryDAL\obj\Debug\ClassLibraryDAL.pdb
